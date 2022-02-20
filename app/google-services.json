@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1093410394621",
+    "project_id": "aadharoldpractica7",
+    "storage_bucket": "aadharoldpractica7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093410394621:android:7fe33e5777687134ecc994",
+        "android_client_info": {
+          "package_name": "com.example.addharold"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093410394621-25q4r07i87rs6rvv2u4qchj6nn0efs69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCepYln1gO36yxWg5zmEEzHv_RgLp6E1Fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093410394621-25q4r07i87rs6rvv2u4qchj6nn0efs69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
