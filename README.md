@@ -1,6 +1,6 @@
 
 # Retos Marian
-## Puede que el mapa no funciones porque he retirado la API key.
+## Puede que el mapa no funcione porque he retirado la API key.
 Todos los retos estan hecho encima de otra app y se encuentran dentro del MainActivity.kt
 
 
